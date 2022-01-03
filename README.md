@@ -4,4 +4,6 @@
 
 ## The website is a blog site that allows creating, updating deleting and liking posts
 
+## Posty.zip contains The database Files
+
 
